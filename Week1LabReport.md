@@ -1,6 +1,6 @@
-# Installing VScode
-1. Go to [VScode Download Website](https://code.visualstudio.com/)
-2. Download the VScode installer 
+# Installing Visual Studio Code
+1. Go to [Visual Studio Code Download Website](https://code.visualstudio.com/)
+2. Download the Visual Studio Code installer 
 3. And you are good to go with start using VScode
 4. ![Image](https://github.com/ZhenmanShen/cse15l-lab-reports/blob/bcaba65b62e189e8c2e58df7a865c935e8c485ca/Week1LabReportImage3.png)
 # Remotely Connecting
