@@ -10,13 +10,13 @@
 3. Reset the password 
 4. The new password may take up to 15 minutes to take effect
 5. For a more in-depth tutorial, you may review this [tutorial document](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
-## Connect Remotely (MacOS) 
+## Remotely Connecting (MacOS) 
 1. Open Terminal 
 2. Enter **ssh ACCOUNT@ieng6.ucsd.edu**
 3. The first 9 characters of the account should be cs15lwi23
 4. Enter your password and you should be connected
 5. ![Image](https://github.com/ZhenmanShen/cse15l-lab-reports/blob/7945afb0c54661e42a843d2b26faa844826ab08d/Week1LabReportImage1.png)
-## Connect Remotely (Windows)
+## Remotely Connecting (Windows)
 1. Open up Visual Studio Code
 2. Install `git` for Windows 
 3. Use `git bash` in Visual Studio Code
