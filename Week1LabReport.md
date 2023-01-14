@@ -22,7 +22,6 @@
 4. Enter `ssh ACCOUNT@ieng6.ucsd.edu`
 5. The first 9 characters of the account should be cs15lwi23
 6. Enter your password and you should be connected
-7. ![Image](https://github.com/ZhenmanShen/cse15l-lab-reports/blob/7945afb0c54661e42a843d2b26faa844826ab08d/Week1LabReportImage1.png)
 ## Trying Some Commands
 1. Once logged in, you may enter commands such as cat, ls, pwd, and cd.
 3. ![Image](https://github.com/ZhenmanShen/cse15l-lab-reports/blob/3779a0f4a9118af87419f2f682f14496eb87138b/Week1LabReportImage2.png)
