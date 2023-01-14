@@ -9,7 +9,6 @@
 2. Look up your username that is associated with your ssh
 3. Reset the password 
 4. The new password may take up to 15 minutes to take effect
-5. For a more in-depth tutorial, you may review this [tutorial document](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
 ## Remotely Connecting (MacOS) 
 1. Open Terminal 
 2. Enter `ssh ACCOUNT@ieng6.ucsd.edu`
