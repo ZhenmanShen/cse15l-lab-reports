@@ -2,7 +2,7 @@
 1. Go to [Visual Studio Code Download Website](https://code.visualstudio.com/)
 2. Download the Visual Studio Code installer 
 3. And you are good to go with start using Visual Studio Code
-4. ![Image](/Week1LabReportImage1.png)
+4. ![Image](/Week1LabReportImage3.png)
 # Remotely Connecting
 ## CSE 15L Account
 1. Go to [CSE 15L Account Lookup Website](https://sdacs.ucsd.edu/~icc/index.php)
@@ -12,17 +12,25 @@
 ## Remotely Connecting (MacOS) 
 1. Open Terminal 
 2. Enter `ssh ACCOUNT@ieng6.ucsd.edu`
-3. The first 9 characters of the account should be cs15lwi23
-4. Enter your password and you should be connected
-5. ![Image](https://github.com/ZhenmanShen/cse15l-lab-reports/blob/7945afb0c54661e42a843d2b26faa844826ab08d/Week1LabReportImage1.png)
+3. ssh stands for the Secure Shell Protocol and it is a way to log into a system remotely 
+4. ieng6 is the remote system that is somewhere in UCSD
+5. The first 9 characters of the account should be cs15lwi23
+6. Enter your password and you should be connected
+7. ![Image](/Week1LabReportImage1.png)
 ## Remotely Connecting (Windows)
 1. Open up Visual Studio Code
 2. Install `git` for Windows 
 3. Use `git bash` in Visual Studio Code
 4. Enter `ssh ACCOUNT@ieng6.ucsd.edu`
-5. The first 9 characters of the account should be cs15lwi23
-6. Enter your password and you should be connected
+5. ssh stands for the Secure Shell Protocol and it is a way to log into a system remotely
+6. ieng6 is the remote system that is somewhere in UCSD
+7. The first 9 characters of the account should be cs15lwi23
+8. Enter your password and you should be connected
 ## Trying Some Commands
-1. Once logged in, you may enter commands such as cat, ls, pwd, and cd.
-3. ![Image](https://github.com/ZhenmanShen/cse15l-lab-reports/blob/3779a0f4a9118af87419f2f682f14496eb87138b/Week1LabReportImage2.png)
-4. Through commands, you may access the linux system remotely. 
+1. Once logged in, you may enter commands such as cat, ls, pwd, and cd
+2. cat is the command that prints out the contents of a file after you give it a path
+3. ls is the command that lists all the contents for a given path
+4. cd is the command that change path
+5. pwd is the command that prints all of the current working directory
+6. ![Image](/Week1LabReportImage2.png)
+7. Through commands, you may access the linux system remotely. 
