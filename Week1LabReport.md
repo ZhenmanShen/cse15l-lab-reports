@@ -2,7 +2,7 @@
 1. Go to [Visual Studio Code Download Website](https://code.visualstudio.com/)
 2. Download the Visual Studio Code installer 
 3. And you are good to go with start using Visual Studio Code
-4. ![Image](https://github.com/ZhenmanShen/cse15l-lab-reports/blob/bcaba65b62e189e8c2e58df7a865c935e8c485ca/Week1LabReportImage3.png)
+4. ![Image](/Week1LabReportImage1.png)
 # Remotely Connecting
 ## CSE 15L Account
 1. Go to [CSE 15L Account Lookup Website](https://sdacs.ucsd.edu/~icc/index.php)
