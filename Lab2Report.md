@@ -95,5 +95,6 @@ static void reverseInPlace(int[] arr) {
   }
 ```
 5. The fix addresses the issue because the bug that causes the symptom to appear is because the original code doesn' account for that fact that when it transfer the integer from the original index to the new index, it erases the original number that were in the new index. Since it doesn't keep tract of that the original numbers in their respective index, it wouldn't be able to reverse the order of the array. In the new code, the program create a new array to keep track of the original integer in their original index and flip it onto the original array. Therefore, it wouldn't have the issue of "forgetting" the original integer in each index". 
+
 ## Part 3
 I learned how to better use JUnit for debugging. At first I had trouble to understand how to use JUnit and how to interpret the outputs of JUnit testings. I also learned how to GitHub and how to use GitHub to finish assignments for CSE15L. Finally, I learned how to create a basic search engine and create an URI. 
