@@ -71,7 +71,7 @@ class StringServer {
 Pass `testReversedInPlace()`:
 ![Image](/LabReport2Image4.png)
 Error `testReversedInPlaceError()`:
-![Image](/LabReport2Image3.png)
+![Image](/LabReport2Image3Fixed.png)
 4. Before and After
 
 **Code (Before)**
