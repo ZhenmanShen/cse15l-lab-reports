@@ -52,5 +52,5 @@
 1. To commit `ListExamples.java` into the repository on GitHub, you have to do `git add ListExamples.java` to make sure it is ready to be committed to GitHub
 2. Then, you can do `git status` to make sure that `ListExamples.java` is ready to be committed
 3. Think of `git status` is like checking the boxes on GitHub to select the files that you want to upload 
-4. Then, you can do `git commit -m "with a message of your choosing"` and then `ListExamples.java` is now committed and you can see there are bunch of information regarding like its edits
+4. Then, you can do `git commit -m "with a message of your choosing"` and then `ListExamples.java` is now committed with the new changes and you can see there are bunch of information regarding like its edits
 5. Finally, you got to do `git push` which actually updates the file in the GitHub repository
