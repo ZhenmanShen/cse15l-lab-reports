@@ -1,8 +1,8 @@
 # Lab 4 Report
 ## Log into ieng6
 ![Image](/LabReport4Image1.png)
-1. Enter ssh cs15lwi23___@ieng6.ucsd.edu
-2. Because I set up SSH keys for ieng6, I pressed `<enter>` and I am logged in without the need of the password
+1. Enter `ssh cs15lwi23___@ieng6.ucsd.edu`
+2. Because I set up `ssh` keys for ieng6, I pressed `<enter>` and I am logged in without the need of the password
 
 ## Clone your fork of the repository from your Github account
 ![Image](/LabReport4Image2.png)
@@ -35,8 +35,9 @@
 ```
 4. This chunck of code forces the test to run on forever basically `index` would never be greater than the `list2.size` since it is not incrementing
 5. Therefore, you have to change the `index` in the while loop into `index2`, therefore fixing the code
-6. To save the code, you have to do `^O` and press `<enter>` 
-7. To exit the editor, you have to do `^X`
+6. Press `<down>` arrow key 42 times to go down to the line that is making the mistake. Then you press the `<right>` arrow key 12 times and press `<delete>` 6 times. Now you have deleted `index`, you replace it by type `index2` as the new variable in its place. Now line 43 in the file should show up as `index2 += 1;`.
+7. To save the code, you have to do `^O` and press `<enter>` 
+8. To exit the editor, you have to do `^X`
 
 ## Run the tests, demonstrating that they now succeed
 ![Image](/LabReport4Image5.png)
