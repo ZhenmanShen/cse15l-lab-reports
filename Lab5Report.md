@@ -652,7 +652,6 @@ zhenmanshen@Zhenmans-MacBook-Pro written_2 % find . -type f
 2. The command performs a search through all files in the directory `written_2` and return all files
 that are considered to be directories or `-type d`. 
 ```
-```
 zhenmanshen@Zhenmans-MacBook-Pro written_2 % find . -type d
 .
 ./non-fiction
@@ -666,4 +665,4 @@ zhenmanshen@Zhenmans-MacBook-Pro written_2 % find . -type d
 ./travel_guides
 ./travel_guides/berlitz1
 ./travel_guides/berlitz2
-``
+```
