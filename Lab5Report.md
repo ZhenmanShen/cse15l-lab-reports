@@ -1,5 +1,7 @@
 # Lab 5 Report (find command)
-
+For the final lab report, or Lab Report 5, I decided to do it on Lab Report 3 because I enjoyed the exploration of commands. For Lab Report 3, I did the
+research on `-grep` command, this time, I conducted the research about the `-find` command. This time, I did the task using the skills I practiced and 
+learned from Lab Report 3 and used sources such as ChatGPT and GeeksForGeeks to help me finish this lab report. I also applied the troubleshooting skills that I learned from doing Lab Report 3 to Lab Report 5 when I use the commands to test out what it do. 
 ## find -size
 `-size` command for `find` performs a search operation given the starting directory such that it 
 would return the files that fits the criteria for the size of the file. The syntax for `find -size`
